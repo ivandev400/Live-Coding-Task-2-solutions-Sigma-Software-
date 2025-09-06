@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+
+[appHighlight]:hover {
+  background-color: red;
+  cursor: pointer;
+  transition: background-color 0.75s ease;
+}
